@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetLrcDemo</string>
+    <string name="know">know</string>
+    <string name="updateinfo">updateInfo</string>
+    <string name="updatetitle">updateTitle</string>
+    <string name="image">image</string>
+</resources>
